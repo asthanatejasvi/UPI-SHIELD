@@ -1,6 +1,0 @@
-streamlit
-transformers
-torch
-Pillow
-pytesseract
-requests
